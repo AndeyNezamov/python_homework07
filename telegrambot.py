@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('6288648913:AAEVm1_BrQSV4bWl95WEltMbQIIQWOu_AeY')
+bot = telebot.TeleBot('token')
 
 
 number = random.randint(1,1000)
